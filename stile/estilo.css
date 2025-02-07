@@ -384,5 +384,17 @@ footer {
         justify-content: space-around;
 
     }
+        .rodape{
+        flex-direction: column;
+    }
+    .rodape p{
+        align-items: center;
+        text-align: center;
+    }
+
+    .fundo-card-clientes{
+        flex-direction: column;
+    }
+
 
 }
